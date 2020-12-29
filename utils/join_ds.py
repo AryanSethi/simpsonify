@@ -13,6 +13,6 @@ def join_ds(base_src,base_dest):
             os.rename(os.path.join(base_dest, img), os.path.join(base_dest, img_name))
             index = index + 1
 
-#join_ds('../simpsons_dataset','../ds/simpsons')
-join_ds('../faces','ds/people')
+join_ds('../simpsons_dataset','../ds/simpsons')
+join_ds('../faces','../ds/people')
 
