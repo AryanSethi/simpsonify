@@ -14,3 +14,7 @@ For the dataset, 13k images of human faces as well as random Simpsons were used 
 
 
 PS: Anyone with access to better machines can run the scripts on their ends and share the results with me. :)
+- - - - - - - - 
+For self refence
+
+<img src="https://github.com/AryanSethi/simpsonify/blob/master/readme_samples/PXL_20230221_105305281.jpg" width= "600" align = "centre" alt="S3"/>
